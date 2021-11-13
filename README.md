@@ -1,6 +1,20 @@
 # NetworkRequest
 Light weight library to make network request call with call backs and alerts
 
+Dependencies: 
+
+ 1)Maven: 
+ ```xml
+ <dependency>
+	    <groupId>com.github.kishorekethineni</groupId>
+	    <artifactId>NetworkRequest</artifactId>
+	    <version>a5dc7f7770</version>
+	</dependency>
+```
+ 2)Gradle:
+   ```java
+   implementation 'com.github.kishorekethineni:NetworkRequest:v1.0'
+   ```
 ```ruby
 
  Network network = builder //FORM A BUILDER
